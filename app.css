@@ -44,3 +44,4 @@ h1 a:hover {
 #menu li a:hover,li.cur a{color:#fff}
 
 #prose {width: 600px;margin: 0px auto;padding-top: 20px;}
+#prose h2 {padding: 5px 0px 10px;}
